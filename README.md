@@ -1,7 +1,9 @@
 # Affirmations
-Sebuah aplikasi yang menampilkan daftar kalimat atau kutipan positif.
+An application that displays a list of positive sentences or quotes
 
 https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3
+
+Download this app: https://cloud.degoo.com/share/f62dQfcqfVnd5DAFFSq_AQ
 
 ## Screenshots
 <img src="assets/AffirmationsLogo.png"
