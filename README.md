@@ -3,7 +3,7 @@ An application that displays a list of positive sentences or quotes
 
 https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3
 
-Download this app: https://cloud.degoo.com/share/f62dQfcqfVnd5DAFFSq_AQ
+Download this app: https://drive.google.com/drive/folders/1PEaRigYzc2RIDH7A8mpDtSak4Uj9MtuW?usp=share_link
 
 ## Screenshots
 <img src="assets/AffirmationsLogo.png"
